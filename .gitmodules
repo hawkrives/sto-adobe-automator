@@ -1,0 +1,3 @@
+[submodule "cliclick"]
+	path = cliclick
+	url = https://github.com/hawkrives/cliclick
